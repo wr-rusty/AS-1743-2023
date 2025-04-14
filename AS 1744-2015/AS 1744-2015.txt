@@ -1,0 +1,447 @@
+NOTE: THIS IS THE RAW TEXT OF THE DOCUMENT STANDARD.
+
+
+About this publication
+
+Preface
+
+Foreword
+
+1 Scope
+
+2 Referenced documents
+
+3 Forms and sizes of letters, numerals and text symbols
+
+4 Spacings
+
+5 Application
+
+6 Letter forms and spacing charts
+
+Standard alphabets for road signs
+This Australian Standard® was prepared by Committee MS-012, Road Signs and Traffic Signals. It was approved on behalf of the Council of Standards Australia on 23 March 2015.
+Published:	14 April 2015
+Draft published as:	DR AS 1744:2014
+History:	Originated as AS E37-1960.
+Previous edition AS 1744-1975.
+Second edition AS 1744:2015.
+Committee:	MS-012
+Committee members:	ARRB Group
+Association of Consultants in Access Australia
+Australian Automobile Association
+Australian Industry Group
+Australian Motorcycle Council
+Austroads (Representative from the Department of Planning, Transport and Infrastructure, SA)
+Department of Lands, Planning and the Environment, NT
+Department of Territory and Municipal Services, ACT
+Department of Transport and Main Roads, Qld
+Institute of Public Works Engineering Australasia
+Main Roads Western Australia
+Rail Industry Safety and Standards Board
+Roadmarking Industry Association of Australia
+Roads and Maritime Services NSW
+VicRoads
+© Standards Australia Limited 2015
+All rights are reserved. No part of this work may be reproduced or copied in any form or by any means, electronic or mechanical, including photocopying, without the written permission of the publisher, unless otherwise permitted under the Copyright Act 1968.
+Preface
+This Standard was prepared by the Standards Australia Committee MS-012, Road Signs and Traffic Signals, to supersede AS 1744-1975.
+The standard alphabets are provided for the purpose of establishing uniformity in the forms and dimensions of letters, numerals and symbol characters to be used on road signs in Australia. These alphabets are intended specifically but not exclusively for use with the standard road signs specified in AS 1743.
+The alphabets and spacing values are the metric version of the FHWA Series 2000 fonts developed by the US Department of Transportation Federal Highway Administration (FHWA) as described in its Manual on Uniform Traffic Control Devices ‘Standard Highway Signs’ (2004 Edition or later).
+The revision differs from the AS 1744-1975 in the following aspects:
+(a) The three standard spacings, narrow, medium and wide have been replaced with a one simplified spacing method.
+(b) The basic letter forms have been retained. However, slight changes have been made to ensure consistency with stroke weight and optical balance from letter to letter.
+(c) Lower case letters have been included for each of the Series B, C, D, E, E Modified and F.
+(d) Symbols commonly used in text have been included for each of the Series B, C, D, E, E Modified and F.
+(e) The Series A alphabet has been removed.
+Standards Australia wishes to acknowledge the assistance received from the US Department of Transportation Federal Highway Administration in regard to the documents used as a basis for this Standard, parts of which are directly reproduced herein.
+Fonts that comply with the FHWA Series 2000 are considered to comply with this Standard.
+Foreword
+It is important to understand that the previous edition of this Standard used letter characters and spacings developed from the traffic sign standards used in the USA in the 1960s. In 2004, the FHWA developed a new Standard. This overview of the letter spacing, which has been largely reproduced from the chapter titled ‘Standard Highway Signs’ in the 2004 edition of FHWA, Manual on Uniform Traffic Control Devices, outlines the new spacing methodology.
+The letter spacing previously contained spacing charts for all alphabets which specified exact letter to letter distances to be used when constructing words and legends. Depending upon the letter to letter combination a different dimension was prescribed. In concept that approach was correct (see Figure 1). However, it resulted in a myriad of unique spacing values that can only be reproduced through the use of kerning pairs. Typically, CAD software applications are not typographically sophisticated enough to handle the kerning information.
+It is important to note that the adoption of this new spacing methodology has resulted in some improvements to the actual spacings from the 1975 Standard. The methodology has also required some changes to the letter forms to ensure consistency of stroke weight and optical balance from letter to letter.
+Figure 1 — Examples in spacing from AS 1744-1975
+Examples in spacing from 
+Generally, current software industry specifications for fonts assumes that every letter will be positioned within a bounding box and the bounding box will be assigned a fixed value (see Figure 2).
+Figure 2 — Bounding box and space value
+Bounding box and space value
+Within each bounding box, each letter will have an amount of ‘white space’ to its left, right, top and bottom. This allows software to place bounding boxes side by side, top to bottom, or line by line without needing to worry about the shape and size of the letter or object (see Figure 3).
+Figure 3 — Bounding box and line space
+Bounding box and line space
+Line space is controlled by a separate function in most software and is normally added as an incremental measure specified by the user.
+1   Scope
+This Standard specifies the forms and dimensions of a range of alphabet series, including characters for letters, numerals and text symbols to be used on standard road signs specified in AS 1743 and AS 1742 (series), and, in general, on any other signs used to convey text information to drivers about the driving task. This Standard also specifies the spacings to be used in setting out the alphabets.
+The specification comprises six alphabets of letters, both upper and lower cases, numerals and text symbols ranging in width from narrow letters (Series B) to wide letters (Series F), together with tables to calculate character spacings.
+2   Referenced documents
+The following documents are referred to in this Standard:
+AS 1742, Manual of uniform traffic control devices series
+AS 1743, Road signs—Specifications
+3   Forms and sizes of letters, numerals and text symbols
+The forms of letters, numerals and symbols are as follows:
+(a) Series B.
+(b) Series C.
+(c) Series D.
+(d) Series E.
+(e) Series E Modified.
+(f) Series F.
+The forms are shown in letters, numerals and text symbols on grid squares. To obtain forms in a particular height, increase the size of the squares proportionately.
+The stroke width and letter height of each alphabet, including the lower case alphabet, equals the width and height respectively of the letter ‘I’ or ‘i’ of the alphabet, whichever is appropriate. All letters and numerals having an arc top or bottom are extended slightly above and below this basic size.
+4   Spacings
+Spacings for each Series are shown as follows:
+(a)	Table 1	Series B.
+(b)	Table 2	Series C.
+(c)	Table 3	Series D.
+(d)	Table 4	Series E.
+(e)	Table 5	Series E Modified.
+(f)	Table 6	Series F.
+The spacings dimensions given are for the 100 mm upper case letter height. To obtain spacings for letters of heights other than 100 mm multiply by the appropriate factor.
+5   Application
+5.1   Use
+The new alphabets and spacings shall be used on all new signs, and on all replacements of existing signs.
+5.2   Series B to F
+Different series of alphabets may be combined on the one sign provided that the same series is used in each line of the legend.
+5.3   Series E modified
+Where upper and lower case legend is used for destinations on Guide signs, Series E Modified shall be used.
+5.4   Spacing between words and lines
+For preferred letter heights and spacing between words and lines, and for the general sign legend design requirements, see AS 1743.
+6   Letter forms and spacing charts
+SERIES B
+img_1
+SERIES B
+img_2
+SERIES B
+img_3
+SERIES B
+img_4
+SERIES B
+img_5
+Table 1 — Standard alphabets spacing chart—Series B
+Character	Left (mm)	Width (mm)	Right (mm)	Character	Left (mm)	Width (mm)	Right (mm)
+A	3	54	3	o	5	37	5
+B	11	43	5	p	8	37	5
+C	8	43	8	q	5	37	8
+D	11	43	8	r	8	26	2
+E	11	38	5	s	3	32	2
+F	11	38	3	t	0	30	0
+G	8	43	8	u	7	36	8
+H	11	43	11	v	2	43	2
+I	11	13	11	w	2	56	2
+J	3	44	11	x	0	46	0
+K	11	44	5	y	2	46	2
+L	11	38	3	z	3	36	3
+M	11	49	11	1	5	21	11
+N	11	43	11	2	5	43	5
+O	8	46	8	3	3	43	5
+P	11	43	3	4	5	49	8
+Q	8	46	8	5	8	43	5
+R	11	43	5	6	3	43	8
+S	5	43	5	7	5	43	8
+T	3	38	3	8	5	43	5
+U	11	43	11	9	8	43	5
+V	3	47	3	0	8	46	8
+W	3	64	3	&	5	74	3
+X	5	47	5	!	11	13	11
+Y	3	54	3	"	11	39	11
+Z	5	43	5	#	8	63	8
+a	3	37	7	$	5	43	5
+b	8	37	5	¢	8	44	8
+c	5	37	2	/	0	99	0
+d	5	37	8	aster	8	52	8
+e	5	37	3	period	8	14	8
+f	3	23	2	comma/apos	8	15	8
+g	5	36	8	colon	8	14	8
+h	8	36	7	(	8	30	5
+i	8	13	8	)	5	30	8
+j	0	23	8	hyphen	3	31	3
+k	8	40	2	@	8	100	8
+l	8	13	8	=	3	56	3
+m	8	59	7	+	3	56	3
+n	8	36	7	?	5	52	5
+NOTE Measurement based on 100 millimetre upper case letter height.
+SERIES C
+img_6
+SERIES C
+img_7
+SERIES C
+img_8
+SERIES C
+img_9
+SERIES C
+img_10
+SERIES C
+img_11
+Table 2 — Standard alphabets spacing chart—Series C
+Character	Left (mm)	Width (mm)	Right (mm)	Character	Left (mm)	Width (mm)	Right (mm)
+A	3	64	3	o	6	51	6
+B	11	56	6	p	9	51	6
+C	9	56	9	q	6	51	9
+D	11	56	9	r	9	33	2
+E	11	51	6	s	4	42	3
+F	11	51	3	t	1	36	1
+G	9	56	9	u	8	51	9
+H	11	56	11	v	2	59	2
+I	11	14	11	w	2	94	2
+J	3	51	11	x	0	65	0
+K	11	56	6	y	2	62	2
+L	11	51	3	z	3	42	3
+M	11	66	11	1	9	21	11
+N	11	56	11	2	6	56	6
+O	9	59	9	3	6	56	6
+P	11	56	9	4	3	62	9
+Q	9	59	9	5	6	56	6
+R	11	56	6	6	9	56	9
+S	6	56	6	7	3	56	9
+T	3	51	3	8	6	56	6
+U	11	56	11	9	6	56	6
+V	3	62	3	0	9	59	9
+W	3	76	3	&	9	100	0
+X	3	59	3	!	11	14	11
+Y	3	64	3	"	11	43	11
+Z	6	56	6	#	6	76	6
+a	4	48	8	$	9	56	9
+b	9	51	6	¢	6	49	3
+c	6	50	3	/	0	102	0
+d	6	51	9	aster	8	52	8
+e	6	51	4	period	4	16	4
+f	4	31	2	comma/apos	4	16	4
+g	6	51	9	colon	4	16	4
+h	9	51	8	(	9	30	4
+i	9	14	9	)	4	30	9
+j	0	29	9	hyphen	3	35	3
+k	9	54	2	@	9	100	9
+l	9	14	9	=	3	65	3
+m	9	84	8	+	3	65	3
+n	9	51	8	?	6	61	6
+NOTE Measurement based on 100 millimetre upper case letter height.
+SERIES D
+img_12
+SERIES D
+img_13
+SERIES D
+img_14
+SERIES D
+img_15
+SERIES D
+img_16
+SERIES D
+img_17
+SERIES D
+img_18
+Table 3 — Standard alphabets spacing chart—Series D
+Character	Left (mm)	Width (mm)	Right (mm)	Character	Left (mm)	Width (mm)	Right (mm)
+A	3	85	3	o	6	61	6
+B	12	68	5	p	10	60	6
+C	10	68	10	q	6	60	10
+D	12	68	10	r	10	38	2
+E	12	62	5	s	4	47	3
+F	12	62	3	t	1	40	1
+G	10	68	10	u	9	59	10
+H	12	68	12	v	2	71	2
+I	12	16	12	w	2	113	2
+J	3	64	12	x	0	78	0
+K	12	70	5	y	2	75	2
+L	12	62	3	z	3	50	3
+M	12	78	12	1	10	25	12
+N	12	68	12	2	10	68	10
+O	10	71	10	3	18	68	10
+P	12	68	3	4	2	75	12
+Q	10	71	10	5	10	68	10
+R	12	68	5	6	10	68	10
+S	5	68	5	7	7	68	7
+T	3	62	3	8	10	68	10
+U	12	68	12	9	10	68	10
+V	3	76	3	0	10	71	10
+W	3	89	3	&	10	89	0
+X	5	68	5	!	12	16	12
+Y	3	86	3	"	4	18	4
+Z	5	68	5	#	6	85	6
+a	5	57	9	$	5	68	5
+b	10	60	6	¢	10	61	7
+c	6	59	3	/	0	103	0
+d	6	60	10	aster	8	54	8
+e	6	59	4	period	4	18	4
+f	4	36	2	comma/apos	4	18	4
+g	6	60	10	colon	4	18	4
+h	10	59	9	(	10	33	4
+i	10	16	10	)	4	33	10
+j	0	33	10	hyphen	3	35	3
+k	10	64	2	@	10	100	10
+l	10	16	10	=	12	48	12
+m	10	99	9	+	3	67	3
+n	10	59	9	?	7	65	7
+NOTE Measurement based on 100 millimetre upper case letter height.
+SERIES E
+img_19
+SERIES E
+img_20
+SERIES E
+img_21
+SERIES E
+img_22
+SERIES E
+img_23
+SERIES E
+img_24
+SERIES E
+img_25
+Table 4 — Standard alphabets spacing chart—Series E
+Character	Left (mm)	Width (mm)	Right (mm)	Character	Left (mm)	Width (mm)	Right (mm)
+A	4	102	4	o	6	64	6
+B	13	81	7	p	9	62	6
+C	10	81	10	q	6	62	9
+D	13	81	10	r	9	46	2
+E	13	75	7	s	4	61	3
+F	13	75	4	t	1	46	1
+G	10	81	10	u	8	62	9
+H	13	81	13	v	2	71	2
+I	13	18	13	w	2	96	2
+J	4	76	13	x	0	73	0
+K	13	83	3	y	2	77	2
+L	13	75	4	z	3	64	3
+M	13	94	13	1	10	30	13
+N	13	81	13	2	7	81	7
+O	10	84	10	3	7	81	7
+P	13	81	4	4	4	94	10
+Q	10	84	10	5	7	81	7
+R	13	81	7	6	10	81	10
+S	7	81	7	7	4	81	10
+T	4	75	4	8	7	81	7
+U	13	81	13	9	7	81	7
+V	4	92	4	0	10	84	10
+W	4	106	4	&	10	90	0
+X	7	87	7	!	13	18	13
+Y	4	102	4	"	13	51	13
+Z	7	81	7	#	6	87	6
+a	5	61	8	$	10	81	10
+b	9	62	6	¢	10	73	7
+c	6	62	3	/	0	105	0
+d	6	62	9	aster	8	55	8
+e	6	62	4	period	4	18	4
+f	4	38	2	comma/apos	4	18	4
+g	6	62	9	colon	4	18	4
+h	9	62	8	(	10	33	4
+i	9	18	9	)	4	33	10
+j	0	30	9	hyphen	3	35	3
+k	9	60	2	@	10	100	10
+l	9	18	9	=	3	65	3
+m	9	104	8	+	3	65	3
+n	9	62	8	?	7	67	7
+NOTE Measurement based on 100 millimetre upper case letter height.
+SERIES E Modified
+img_26
+SERIES E Modified
+img_27
+SERIES E Modified
+img_28
+SERIES E Modified
+img_29
+SERIES E Modified
+img_30
+SERIES E Modified
+img_31
+SERIES E Modified
+img_32
+SERIES E Modified
+img_33
+Table 5 — Standard alphabets spacing chart—Series E modified
+Character	Left (mm)	Width (mm)	Right (mm)	Character	Left (mm)	Width (mm)	Right (mm)
+A	4	101	4	o	11	68	11
+B	14	81	8	p	20	66	11
+C	10	81	8	q	11	66	20
+D	14	81	10	r	20	50	4
+E	14	74	7	s	9	66	11
+F	14	74	7	t	9	52	12
+G	10	81	10	u	20	66	20
+H	14	81	14	v	9	77	9
+I	14	20	14	w	9	102	9
+J	4	76	14	x	11	80	11
+K	14	82	2	y	9	85	9
+L	14	74	2	z	12	68	12
+M	14	93	14	1	12	30	14
+N	14	81	14	2	11	81	11
+O	10	84	10	3	5	81	10
+P	14	81	4	4	3	93	14
+Q	10	84	10	5	11	81	11
+R	14	81	7	6	10	81	10
+S	11	81	11	7	6	81	10
+T	4	74	4	8	10	81	10
+U	14	81	14	9	10	81	10
+V	4	92	4	0	10	84	10
+W	4	106	4	&	10	90	10
+X	7	87	7	!	14	20	14
+Y	4	101	4	"	14	57	14
+Z	7	81	7	#	10	88	10
+a	11	66	20	$	11	81	11
+b	20	66	11	¢	10	67	7
+c	11	66	11	/	0	107	0
+d	11	66	20	aster	8	56	8
+e	11	66	11	period	4	20	4
+f	10	42	11	comma/apos	4	20	4
+g	11	66	20	colon	4	20	4
+h	20	66	20	(	10	38	4
+i	20	20	20	)	4	38	10
+j	2	37	20	hyphen	3	35	3
+k	20	66	11	@	10	101	10
+l	20	20	20	=	3	65	3
+m	20	110	20	+	3	65	3
+n	20	66	20	?	7	69	7
+NOTE Measurement based on 100 millimetre upper case letter height.
+SERIES F
+img_34
+SERIES F
+img_35
+SERIES F
+img_36
+SERIES F
+img_37
+SERIES F
+img_38
+SERIES F
+img_39
+SERIES F
+img_40
+SERIES F
+img_41
+Table 6 — Standard alphabets spacing chart—Series F
+Character	Left (mm)	Width (mm)	Right (mm)	Character	Left (mm)	Width (mm)	Right (mm)
+A	4	114	4	o	8	80	8
+B	14	94	10	p	12	79	8
+C	10	94	7	q	8	79	12
+D	14	94	10	r	12	50	3
+E	14	81	10	s	7	73	7
+F	14	81	10	t	3	48	4
+G	10	94	10	u	12	74	12
+H	14	94	14	v	2	84	2
+I	14	19	14	w	2	115	2
+J	4	83	14	x	2	88	2
+K	14	94	4	y	2	92	2
+L	14	86	4	z	5	76	5
+M	14	108	14	1	14	33	14
+N	14	94	14	2	10	94	10
+O	10	105	10	3	10	94	10
+P	14	94	10	4	4	102	14
+Q	14	105	10	5	10	94	10
+R	14	94	10	6	10	94	10
+S	10	94	10	7	4	94	4
+T	4	86	4	8	10	94	10
+U	14	94	14	9	10	94	10
+V	4	105	4	0	10	97	10
+W	4	117	4	&	14	115	4
+X	4	102	4	!	14	19	14
+Y	4	114	4	"	14	50	14
+Z	7	94	7	#	2	88	2
+a	8	76	12	$	10	94	10
+b	12	79	8	¢	8	75	5
+c	8	70	5	/	0	107	0
+d	8	79	12	aster	7	56	7
+e	8	80	8	period	7	19	7
+f	3	43	3	comma/apos	7	19	7
+g	8	75	12	colon	7	19	7
+h	12	74	12	(	10	34	3
+i	12	19	12	)	3	34	10
+j	1	31	12	hyphen	4	35	4
+k	12	70	3	@	10	100	10
+l	12	19	12	=	4	65	4
+m	12	118	12	+	4	65	4
+n	12	74	12	?	10	84	10
+NOTE Measurement based on 100 millimetre upper case letter height.
