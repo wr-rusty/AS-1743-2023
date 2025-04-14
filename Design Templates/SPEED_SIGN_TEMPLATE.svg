@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" width="65.91" height="87.26" version="1.1" viewBox="0 0 65.91 87.26">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: FHWASeriesD2024minus10, FHWASeriesD2024;
+        font-size: 32.17px;
+      }
+
+      .st1 {
+        fill: #ed1c24;
+      }
+
+      .st2 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="st2" x="1.13" y="1.09" width="63.65" height="85.07" rx="5.33" ry="5.33"/>
+    <path class="st1" d="M32.95,12.14C15.56,12.14,1.47,26.23,1.47,43.62s14.09,31.49,31.48,31.49,31.49-14.1,31.49-31.49-14.1-31.48-31.49-31.48ZM32.95,68.51c-13.75,0-24.89-11.14-24.89-24.89s11.14-24.89,24.89-24.89,24.89,11.14,24.89,24.89-11.14,24.89-24.89,24.89Z"/>
+    <g>
+      <path d="M12.73,48.81c0-7.13,3.98-14.46,9.95-18.43l2.08,3.43c-3.16,2.44-4.79,4.52-6.33,7.77,1.45-.27,2.08-.27,3.07-.27,4.79,0,8.76,3.53,8.76,7.87s-3.75,7.85-8.77,7.85-8.77-3.62-8.77-8.23ZM16.89,49.08c0,2.07,2.08,3.8,4.61,3.8s4.7-1.72,4.7-3.8-2.08-3.71-4.7-3.71-4.61,1.72-4.61,3.71Z"/>
+      <path d="M53.19,43.7c0,.92.2,13.33-9.15,13.33s-9.15-12.41-9.15-13.33-.2-13.33,9.15-13.33,9.15,12.4,9.15,13.33ZM44.08,52.88c2.78,0,5.03-2.63,5.03-9.18s-2.25-9.18-5.03-9.18-5.03,2.63-5.03,9.18,2.25,9.18,5.03,9.18Z"/>
+    </g>
+  </g>
+  <text class="st0" transform="translate(114.29 34.53)"><tspan x="0" y="0">60</tspan></text>
+  <text class="st0" transform="translate(114.29 -17.24)"><tspan x="0" y="0">10</tspan></text>
+  <text class="st0" transform="translate(179.71 -17.24)"><tspan x="0" y="0">20</tspan></text>
+  <text class="st0" transform="translate(302.24 86.49)"><tspan x="0" y="0">130</tspan></text>
+  <text class="st0" transform="translate(236.81 86.49)"><tspan x="0" y="0">120</tspan></text>
+  <text class="st0" transform="translate(179.71 86.49)"><tspan x="0" y="0">110</tspan></text>
+  <text class="st0" transform="translate(114.29 86.49)"><tspan x="0" y="0">100</tspan></text>
+  <text class="st0" transform="translate(302.24 34.53)"><tspan x="0" y="0">90</tspan></text>
+  <text class="st0" transform="translate(236.81 34.53)"><tspan x="0" y="0">80</tspan></text>
+  <text class="st0" transform="translate(179.71 34.53)"><tspan x="0" y="0">70</tspan></text>
+  <text class="st0" transform="translate(366.17 -17.24)"><tspan x="0" y="0">50</tspan></text>
+  <text class="st0" transform="translate(302.24 -17.24)"><tspan x="0" y="0">40</tspan></text>
+  <text class="st0" transform="translate(236.81 -17.24)"><tspan x="0" y="0">30</tspan></text>
+</svg>
